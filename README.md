@@ -8,7 +8,7 @@ applications.
 [![pub package](https://img.shields.io/pub/v/widgets_to_image_plus.svg)](https://pub.dev/packages/widgets_to_image_plus)
 
 ## Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/shirsh94/flutter_doc_scanner/main/demo/screen_shot_1.jpg?raw=true) 
+![Screenshot 1](https://raw.githubusercontent.com/shirsh94/widgets_to_image_plus/refs/heads/main/assets/Screenshot.png) 
 
 ## Features
 
